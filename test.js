@@ -1,5 +1,5 @@
 // Import the function sum from the app.js file
-const {eurToDollar, eurToYen, eurToGBP, fromDollarToYen,
+const {dollarToEuro, eurToYen, eurToGBP, fromDollarToYen,
     fromYenToPound, fromEuroToDollar} = require('./app.js');
 
 let oneEuroIs = {
